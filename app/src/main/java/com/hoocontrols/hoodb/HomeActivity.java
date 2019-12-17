@@ -65,7 +65,7 @@ public class HomeActivity extends AppCompatActivity {
     SharedPreferences.Editor editor;
 
 //    SharedPreferences.Editor editor;
-
+// hello
 
     MqttAndroidClient client;
     MqttConnectOptions options;
