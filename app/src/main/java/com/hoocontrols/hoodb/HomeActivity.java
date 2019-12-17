@@ -705,7 +705,7 @@ public class HomeActivity extends AppCompatActivity {
         });
 
 
-
+// HI HOW
         fragmentManager = getSupportFragmentManager();
         if(findViewById(R.id.fragment_container)!=null){
             if(savedInstanceState!=null){
