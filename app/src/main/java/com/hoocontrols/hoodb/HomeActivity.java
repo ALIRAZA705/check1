@@ -859,7 +859,7 @@ public class HomeActivity extends AppCompatActivity {
 //        Toast.makeText(HomeActivity.this, "BT Enter "+ messageParts[0], Toast.LENGTH_LONG).show();
 
 // 12_18_2019
-
+//3:00
 
         if(messageParts[1].contains("T1")){
             SwitchNumber = "T1";
