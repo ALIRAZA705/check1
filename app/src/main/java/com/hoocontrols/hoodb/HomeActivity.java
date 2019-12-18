@@ -860,6 +860,7 @@ public class HomeActivity extends AppCompatActivity {
 
 // 12_18_2019
 //3:00
+        // 4:oo
 
         if(messageParts[1].contains("T1")){
             SwitchNumber = "T1";
